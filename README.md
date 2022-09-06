@@ -1,6 +1,6 @@
 
 
-*** School Management: st-goals.vercel.app
+*** School Management: https://st-goals.vercel.app/home
 
 *** Pewrsonal Website: https://rejakazi.vercel.app/
 
