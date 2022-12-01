@@ -4,7 +4,7 @@
 
 *** SoftLab IT : https://softlabit-new-ui.vercel.app/
 
-*** Pewrsonal Website: https://rejakazi.vercel.app/
+*** Portfolio Website: https://rejakazi.vercel.app/
 
 *** Mobile Bokan: https://rk-mobiledokan.netlify.app/
 
