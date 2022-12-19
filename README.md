@@ -1,6 +1,6 @@
 
 
-*** School Management: https://st-goals.vercel.app/home
+*** School Management: https://school-manegement.vercel.app
 
 *** Furniture Shop:https://marketo-rose.vercel.app/
 
