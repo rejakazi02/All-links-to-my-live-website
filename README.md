@@ -2,6 +2,8 @@
 
 *** School Management: https://st-goals.vercel.app/home
 
+*** Furniture Shop:https://marketo-rose.vercel.app/
+
 *** SoftLab IT : https://softlabit-new-ui.vercel.app/
 
 *** Portfolio Website: https://rejakazi.vercel.app/
