@@ -4,6 +4,8 @@
 
 *** Furniture Shop:https://marketo-rose.vercel.app/
 
+*** Hekto Furniture https://inilab.vercel.app/
+
 *** SoftLab IT : https://softlabit-new-ui.vercel.app/
 
 *** Portfolio Website: https://rejakazi.vercel.app/
