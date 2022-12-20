@@ -3,6 +3,8 @@
 
 *** School Management: https://school-manegement.vercel.app
 
+***Osudpotro (Medicine shop): https://rk-osudpotro.netlify.app/
+
 *** Furniture Shop:https://marketo-rose.vercel.app/
 
 *** Hekto Furniture https://inilab.vercel.app/
