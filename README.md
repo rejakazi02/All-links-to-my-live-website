@@ -1,5 +1,5 @@
 
----------------All websites are only webview------------------
+--------------All websites are only webview------------------
 
 *** School Management: https://school-manegement.vercel.app
 
