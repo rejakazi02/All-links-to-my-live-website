@@ -3,6 +3,10 @@
 
 *** School Management: https://school-manegement.vercel.app
 
+*** Red grocer: https://test.redgrocer.softlabit.com/  
+
+*** Digihaat: https://qa.softlabit.com/    
+
 ***Osudpotro (Medicine shop): https://rk-osudpotro.netlify.app/
 
 *** Furniture Shop:https://marketo-rose.vercel.app/
