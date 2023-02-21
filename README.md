@@ -1,11 +1,12 @@
 
 -----------------All websites are only webview-----------------
 
-*** School Management: https://school-manegement.vercel.app
 
 *** Red grocer: https://test.redgrocer.softlabit.com/  
 
 *** Digihaat: https://qa.softlabit.com/    
+
+*** School Management: https://school-manegement.vercel.app
 
 ***Osudpotro (Medicine shop): https://rk-osudpotro.netlify.app/
 
