@@ -2,7 +2,7 @@
 -----------------All websites are only webview-----------------
 
 
-*** Red grocer: https://test.redgrocer.softlabit.com/  
+*** Red grocer: https://redgrocer.com/  
 
 *** Digihaat: https://qa.softlabit.com/    
 
