@@ -3,7 +3,9 @@
 
 *** Red grocer: https://redgrocer.com/  
 
-*** Digihaat: https://qa.softlabit.com/    
+*** Digihaat: https://qa.softlabit.com/  
+
+***Okasha: https://okasha.softlabit.com/
 
 *** School Management: https://school-manegement.vercel.app
 
