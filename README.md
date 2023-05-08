@@ -5,7 +5,9 @@
 
 *** Digihaat: https://digihaat.com.bd/
 
-***Okasha: https://okasha.softlabit.com/
+***Okasha: https://iherb.ihope.one
+
+***Ihope: https://okasha.softlabit.com/
 
 *** School Management: https://school-manegement.vercel.app
 
