@@ -1,9 +1,9 @@
--nnn-All websites are only webview--
+--All websites are only webview--
 
 
 *** Red grocer: https://redgrocer.com/  
 
-*** Digihaat: https://qa.softlabit.com/  
+*** Digihaat: https://digihaat.com.bd/
 
 ***Okasha: https://okasha.softlabit.com/
 
