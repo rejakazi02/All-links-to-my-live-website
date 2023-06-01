@@ -3,6 +3,8 @@
 
 *** Red grocer: https://redgrocer.com/  
 
+*** Esquire Electronics: https://www.esquireelectronicsltd.com/
+
 *** Digihaat: https://digihaat.com.bd/
 
 ***Ihope: https://iherb.ihope.one
