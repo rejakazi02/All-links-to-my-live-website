@@ -5,17 +5,19 @@
 
 *** Esquire Electronics: https://www.esquireelectronicsltd.com/
 
+*** Heriken: https://heriken.com/
+
 *** Digihaat: https://digihaat.com.bd/
 
-***Ihope: https://iherb.ihope.one
+*** Ihope: https://iherb.ihope.one
 
-***Okasha: https://okasha.softlabit.com/
+*** Okasha: https://okasha.softlabit.com/
 
 *** School Management: https://school-manegement.vercel.app
 
 *** To-Do List: https://seo-page1-tasks.vercel.app/
 
-***Osudpotro (Medicine shop): https://rk-osudpotro.netlify.app/
+*** Osudpotro (Medicine shop): https://rk-osudpotro.netlify.app/
 
 *** Furniture Shop:https://marketo-rose.vercel.app/
 
