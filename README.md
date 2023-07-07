@@ -7,7 +7,13 @@
 
 *** Heriken: https://heriken.com/
 
-*** Digihaat: https://digihaat.com.bd/
+*** Digihaat: https://digihaat.com.bd
+
+*** Samo Leather: samoleather.com
+
+*** Techfair: https://techfair.com.bd
+
+*** Gadgetex: https://gadgetex.com.bd
 
 *** Ihope: https://iherb.ihope.one
 
