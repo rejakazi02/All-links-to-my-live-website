@@ -9,7 +9,7 @@
 
 *** Digihaat: https://digihaat.com.bd
 
-*** Samo Leather: samoleather.com
+*** Samo Leather: https://samoleather.com
 
 *** Techfair: https://techfair.com.bd
 
