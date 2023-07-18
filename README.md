@@ -1,5 +1,6 @@
------------All websites are only webview------------
+-----------All website live links------------
 
+# # # Client's website
 
 *** Red grocer: https://redgrocer.com/  
 
@@ -7,7 +8,7 @@
 
 *** Heriken: https://heriken.com/
 
-*** Digihaat: https://digihaat.com.bd
+*** MeekaGo: https://www.meekago.com
 
 *** Samo Leather: https://samoleather.com
 
@@ -15,27 +16,33 @@
 
 *** Gadgetex: https://gadgetex.com.bd
 
+*** Medicine Dokan: https://medicinedokan.com/
+
+*** SoftLab IT : https://softlabit.com
+
+*** Digihaat: https://digihaat.com.bd
+
 *** Ihope: https://iherb.ihope.one
 
-*** Okasha: https://okasha.softlabit.com/
+*** Portfolio Website: https://rejakazi.vercel.app
 
 *** School Management: https://school-manegement.vercel.app
 
-*** To-Do List: https://seo-page1-tasks.vercel.app/
+# # # Single page website
 
 *** Osudpotro (Medicine shop): https://rk-osudpotro.netlify.app/
 
 *** Furniture Shop:https://marketo-rose.vercel.app/
 
-*** Hekto Furniture https://inilab.vercel.app/
+*** Hekto Furniture https://inilab.vercel.app
 
-*** SoftLab IT : https://softlabit-new-ui.vercel.app/
-
-*** Portfolio Website: https://rejakazi.vercel.app/
-
-*** Mobile Bokan: https://rk-mobiledokan.netlify.app/
+*** Mobile Dokan: https://rk-mobiledokan.netlify.app/
 
 *** Meal Menu: https://rk-mealmenu.netlify.app/
+
+*** Conventions Center: https://rk-conventions-center.netlify.app/
+
+*** Electronic Shop: https://rk-electronicsshop.netlify.app/
 
 *** Weather Search: https://rk-weathersearch.netlify.app/
 
@@ -43,8 +50,8 @@
 
 *** Baper Bank: https://rk-baaperbank.netlify.app/ 
 
-*** Conventions Center: https://rk-conventions-center.netlify.app/
+*** Okasha: https://okasha.softlabit.com/
 
-*** Electronic Shop: https://rk-electronicsshop.netlify.app/
+*** To-Do List: https://seo-page1-tasks.vercel.app/
 
 
