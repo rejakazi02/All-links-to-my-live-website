@@ -2,11 +2,11 @@
 
 # # # # Client's website
 
-*** Red grocer: https://redgrocer.com/  
+*** Red Grocer: https://redgrocer.com
 
-*** Esquire Electronics: https://www.esquireelectronicsltd.com/
+*** Esquire Electronics: https://www.esquireelectronicsltd.com
 
-*** Heriken: https://heriken.com/
+*** Heriken: https://heriken.com
 
 *** MeekaGo: https://www.meekago.com
 
@@ -16,7 +16,7 @@
 
 *** Gadgetex: https://gadgetex.com.bd
 
-*** Medicine Dokan: https://medicinedokan.com/
+*** Medicine Dokan: https://medicinedokan.com
 
 *** SoftLab IT: https://softlabit.com
 
@@ -30,28 +30,28 @@
 
 *** Portfolio Website: https://rejakazi.vercel.app
 
-*** Osudpotro (Medicine shop): https://rk-osudpotro.netlify.app/
+*** Osudpotro (Medicine shop): https://rk-osudpotro.netlify.app
 
-*** Furniture Shop:https://marketo-rose.vercel.app/
+*** Furniture Shop:https://marketo-rose.vercel.app
 
 *** Hekto Furniture https://inilab.vercel.app
 
-*** Mobile Dokan: https://rk-mobiledokan.netlify.app/
+*** Mobile Dokan: https://rk-mobiledokan.netlify.app
 
-*** Meal Menu: https://rk-mealmenu.netlify.app/
+*** Meal Menu: https://rk-mealmenu.netlify.app
 
-*** Conventions Center: https://rk-conventions-center.netlify.app/
+*** Conventions Center: https://rk-conventions-center.netlify.app
 
-*** Electronic Shop: https://rk-electronicsshop.netlify.app/
+*** Electronic Shop: https://rk-electronicsshop.netlify.app
 
-*** Weather Search: https://rk-weathersearch.netlify.app/
+*** Weather Search: https://rk-weathersearch.netlify.app
 
-*** Country Search: https://rk-countrysearch.netlify.app/
+*** Country Search: https://rk-countrysearch.netlify.app
 
-*** Baper Bank: https://rk-baaperbank.netlify.app/ 
+*** Baper Bank: https://rk-baaperbank.netlify.app
 
-*** Okasha: https://okasha.softlabit.com/
+*** Okasha: https://okasha.softlabit.com
 
-*** To-Do List: https://seo-page1-tasks.vercel.app/
+*** To-Do List: https://seo-page1-tasks.vercel.app
 
 
