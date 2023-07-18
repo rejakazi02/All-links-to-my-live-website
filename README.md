@@ -24,11 +24,11 @@
 
 *** Ihope: https://iherb.ihope.one
 
-*** Portfolio Website: https://rejakazi.vercel.app
-
 *** School Management: https://school-manegement.vercel.app
 
-# # # Single page website
+# # # Single-page website
+
+*** Portfolio Website: https://rejakazi.vercel.app
 
 *** Osudpotro (Medicine shop): https://rk-osudpotro.netlify.app/
 
