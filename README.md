@@ -18,6 +18,8 @@
 
 *** Medicine Dokan: https://medicinedokan.com
 
+*** Ferkeap: https://ferkeap.com
+
 *** SoftLab IT: https://softlabit.com
 
 *** Digihaat: https://digihaat.com.bd
