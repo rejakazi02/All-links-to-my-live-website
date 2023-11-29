@@ -8,6 +8,8 @@
 
 *** Heriken: https://heriken.com
 
+*** Abirshop: https://abirshop.com/
+
 *** MeekaGo: https://www.meekago.com
 
 *** Ek Desh Ek Rate: https://ekdeshekrate.com
