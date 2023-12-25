@@ -12,6 +12,12 @@
 
 *** MeekaGo: https://www.meekago.com
 
+*** Queries Care: https://queriescare.com
+
+*** Medicine Dipo: https://medicinedipo.com
+
+*** Medicine Dokan: https://medicinedokan.com
+
 *** Ek Desh Ek Rate: https://ekdeshekrate.com
 
 *** Samo Leather: https://samoleather.com
@@ -19,10 +25,6 @@
 *** Techfair: https://techfair.com.bd
 
 *** Gadgetex: https://gadgetex.com.bd
-
-*** Medicine Dipo: https://medicinedipo.com
-
-*** Medicine Dokan: https://medicinedokan.com
 
 *** Ferkeap: https://ferkeap.com
 
