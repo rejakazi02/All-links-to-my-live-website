@@ -6,6 +6,8 @@
 
 *** Esquire Electronics: https://www.esquireelectronicsltd.com
 
+*** Osudkini: https://osudkini.com
+
 *** Heriken: https://heriken.com
 
 *** Abirshop: https://abirshop.com/
