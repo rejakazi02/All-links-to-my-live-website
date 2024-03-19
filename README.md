@@ -20,6 +20,8 @@
 
 *** Medicine Dokan: https://medicinedokan.com
 
+*** MK Shipping Tickets: https://mkshippinglines.com
+
 *** Ek Desh Ek Rate: https://ekdeshekrate.com
 
 *** Samo Leather: https://samoleather.com
