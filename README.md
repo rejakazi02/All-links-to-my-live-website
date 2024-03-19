@@ -18,8 +18,6 @@
 
 *** Medicine Dipo: https://medicinedipo.com
 
-*** Medicine Dokan: https://medicinedokan.com
-
 *** MK Shipping Tickets: https://mkshippinglines.com
 
 *** Ek Desh Ek Rate: https://ekdeshekrate.com
@@ -39,6 +37,8 @@
 *** Digihaat: https://digihaat.com.bd
 
 *** Ihope: https://iherb.ihope.one
+
+*** Medicine Dokan: https://medicinedokan.com
 
 *** School Management: https://school-manegement.vercel.app
 
