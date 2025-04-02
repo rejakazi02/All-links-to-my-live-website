@@ -4,8 +4,6 @@
 
 *** Esquire Electronics Ltd.: https://www.esquireelectronicsltd.com
 
-*** Esquire Electronics Ltd New Site.: https://esquireelectronicsltd.softlabit.com
-
 *** Heriken : https://heriken.com
 
 *** Digihaat : https://digihaat.com.bd
