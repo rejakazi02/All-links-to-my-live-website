@@ -1,18 +1,16 @@
 # All links to my live website 
 
-*** Osudkini : https://osudkini.com
+*** Gadget shob: https://gadgetshob.saleecom.shop
 
 *** Esquire Electronics Ltd.: https://www.esquireelectronicsltd.com
+
+*** Bongodeshi : https://bongodeshi.com
+
+*** Osudkini : https://osudkini.com
 
 *** Heriken : https://heriken.com
 
 *** Digihaat : https://digihaat.com.bd
-
-*** Bongodeshi : https://bongodeshi.softlabit.com
-
-*** MK Shipping Lines : https://mkshippinglines.com
-
-*** Queries care : https://queriescare.com
 
 *** Guardian Publications : https://www.guardianpubs.com
 
@@ -20,9 +18,13 @@
 
 *** Abir Shop : https://abirshop.com
 
-*** Faguna : https://faguna.com
-
 *** Tee : https://www.tee.com.bd
+
+*** MK Shipping Lines : https://mkshippinglines.com
+
+*** Queries care : https://queriescare.com
+
+*** Faguna : https://faguna.com
 
 *** 2nd Mentor : https://www.2ndmentor.com
 
